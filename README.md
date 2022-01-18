@@ -1,3 +1,13 @@
+# Introducion
+Git-search is a website platform which allows the user to search themseleves or any other github user and they would find the users profile and all descriptions
+
+## Languages used
+1. Html -used as the backbone of the project
+2. css -used for styling the project
+3. javascript -used to add functionlity 
+4. typescript- used to add user  interactivity to the page
+
+
 # GitSearch
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.3.
@@ -25,3 +35,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## contact information
+You can reach me through my email-        @subbysav123@gmail.com
